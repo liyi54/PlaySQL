@@ -1,2 +1,2 @@
 # PlaySQL
-Some POSTGRESql Queries with use case business requirements
+Some PostgreSQL queries with use case business requirements
